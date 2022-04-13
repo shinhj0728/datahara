@@ -1,3 +1,3 @@
-# datahara
+# datahada
 
-데이터하라 입니다.
+데이터하 입니다.
